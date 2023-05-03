@@ -43,7 +43,7 @@
             <li><a href="#">Introduction to Algorithms by Thomas H. Cormen</a></li>
         </ul>
         </section>
-        <h2>Derniers livres ajoutés</h2>
+        <h2>Livre conseillés</h2>
         <ul>
             <li><a href="#">Artificial Intelligence: A Modern Approach by Stuart Russell</a></li>
             <li><a href="#">Computer Organization and Design</a></li>
@@ -51,7 +51,7 @@
             <li><a href="#">Web Development with Node and Express</a></li>
         </ul>
         </section>
-        <h2>Derniers livres ajoutés</h2>
+        <h2>Meilleurs Classements</h2>
         <ul>
             <li><a href="#">Algorithms Unlocked by Thomas H. Cormen</a></li>
             <li><a href="#">Effective Java by Joshua Bloch</a></li>
